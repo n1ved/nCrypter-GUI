@@ -2,7 +2,7 @@
 simple text encryption program with Qt GUI 
 
 ---
-![demo](demo-new.gif)
+![demo](demo.gif)
 
 N-Crypter is simple standalone Text encryption/decryption tool
 wriiten in GCC C++
